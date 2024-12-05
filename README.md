@@ -45,6 +45,6 @@ The following technologies, libraries, and frameworks were employed:
 2) Model performance comparison and feature importance plots.
 
 
-## Model Performance Comparison
+## Model Performance Comparison 📊
 ![image](https://github.com/user-attachments/assets/2a70a871-61a6-4259-ab3f-e733c41471c9)
 
