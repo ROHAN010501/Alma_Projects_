@@ -1,5 +1,5 @@
 
-# Health Insurance Cross Sell Prediction
+# MAX LIFE Health Insurance Cross Sell Prediction
 
 ![image](https://github.com/user-attachments/assets/2c8bab68-1bb3-4949-a484-c4413e91c6fc)
 
